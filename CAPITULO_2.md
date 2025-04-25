@@ -477,4 +477,16 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 </p>
 
 ### 2.3.5. As-is Scenario Mapping
+- **Segmento objetivo:** Profesionales de la salud
+
+<p align="center">
+  <img src="assets/chapter02/Graphics/AS-IS%20Pisquiatra.jpg"  style="width:800px; height:auto;">
+</p>
+
+- **Segmento objetivo:** Pacientes    
+
+<p align="center">
+  <img src="assets/chapter02/Graphics/AS-IS%20Cliente.jpg"  style="width:800px; height:auto;">
+</p>
+
 ## 2.4. Ubiquitous Language
