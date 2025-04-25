@@ -366,6 +366,13 @@ con frecuencia.
 </p>
 
 ## 2.3. Needfinding
+Después de realizar las entrevistas, logramos recopilar información
+valiosa sobre sus deseos, frustraciones, situación y otros datos que
+nos serán útiles para atender sus necesidades, mejorando así la
+experiencia de nuestros usuarios. Esta información también nos
+permitirá desarrollar los esquemas para las secciones de User
+Personas, User Task Matrix, User Journey Maps y el Empathy Mapping.
+
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
