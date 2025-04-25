@@ -374,6 +374,33 @@ permitirá desarrollar los esquemas para las secciones de User
 Personas, User Task Matrix, User Journey Maps y el Empathy Mapping.
 
 ### 2.3.1. User Personas
+En el desarrollo de un sitio web para mejorar la calidad de
+trabajo de los médicos de la salud mental, hemos identificado
+que optimizar la gestión administrativa es clave para mejorar
+la atención a los pacientes. A través de entrevistas con usuarios
+potenciales y expertos, obtuvimos información valiosa sobre cómo
+una plataforma virtual puede liberar a los médicos de tareas
+administrativas, permitiéndoles enfocarse más en sus pacientes.
+
+Las fichas de User Persona que se presentarán a
+continuación reflejan estas necesidades, mostrando cómo una
+administración más eficiente puede mejorar tanto la experiencia
+del médico como el bienestar del paciente. Estas herramientas nos
+ayudarán a diseñar una plataforma que realmente responda a las
+expectativas de nuestros usuarios.
+
+**Segmento Objetivo: Profesional de la salud mental**
+
+<p align="center">
+  <img src="assets/chapter02/Segments/So-Mental%20Medic.png" style="width:800px; height:auto;">
+</p>
+
+**Segmento Objetivo: Paciente**
+
+<p align="center">
+  <img src="assets/chapter02/Segments/So-patient.png" style="width:800px; height:auto;">
+</p>
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
