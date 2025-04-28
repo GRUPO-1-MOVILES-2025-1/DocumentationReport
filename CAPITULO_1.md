@@ -112,3 +112,59 @@ El sistema de salud mental en Perú enfrenta una crisis debido a la sobrecarga a
 Para superar este desafío, es esencial implementar soluciones tecnológicas que optimicen la administración de los pacientes. Automatizar tareas para liberar tiempo para los profesionales de la salud, permitiéndoles enfocarse más en la atención directa y mejorando así el acceso y la calidad de la atención en salud mental en Perú
 
 ¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
+
+### 1.2.2 Lean UX Process.
+#### 1.2.2.1. Lean UX Problem Statements.
+
+Estamos desarrollando una plataforma de software para instituciones médicas especializadas en salud mental, diseñada para mejorar la gestión integrada y eficiente de la información de pacientes y médicos. Las herramientas tecnológicas actuales en estas instituciones no satisfacen las necesidades específicas de gestión, lo que provoca un manejo fragmentado de datos clínicos, complicaciones en la organización y acceso a información durante las consultas, y dificultades en la programación y gestión eficiente de citas. Esta situación impone una carga administrativa adicional sobre los profesionales de salud mental, aumenta el riesgo de errores en el manejo de información clínica, y limita la capacidad de ofrecer un tratamiento multidisciplinario efectivo.
+>*Según el análisis de funcionalidades médicas en línea de 200 hospitales en América Latina y el Caribe, aunque la adopción de agendas en línea y la visualización de exámenes médicos es significativa, la implementación de servicios de telemedicina y otras funcionalidades presenta un margen considerable para el desarrollo y la mejora (s.f.).*
+
+¿Cómo podemos desarrollar esta plataforma para que los profesionales de la salud mental puedan organizar mejor la información de sus pacientes, reducir la carga administrativa, y mejorar la calidad del servicio y la satisfacción de los pacientes, basándonos en criterios medibles como la eficiencia operativa, la precisión en el manejo de la información clínica, y la colaboración entre profesionales? reducir la carga administrativa, y en última instancia, mejorar la calidad del servicio y la satisfacción de los pacientes, basándonos en criterios medibles como la eficiencia operativa, la precisión en el manejo de la información clínica, y la colaboración entre profesionales?*
+
+
+Esta plataforma debe ser segura, fácil de usar, y capaz de integrar todas las funcionalidades necesarias para la gestión diaria en un solo lugar, permitiendo así una mejora significativa en la organización de las consultas, el acceso a la información y la coordinación entre los diferentes profesionales y abriendo la posibilidad para integraciones de IOT dentro de la institución.
+
+- **Customer Segments**: Los usuarios principales de esta plataforma serán los profesionales de la salud mental, y otros especialistas que trabajan en instituciones médicas dedicadas a la salud mental. También incluye al personal administrativo encargado de la gestión de citas y la organización de información clínica.
+  <br><br>
+- **Pain Points**:
+Las herramientas tecnológicas actuales en estas instituciones no cumplen con las necesidades específicas de gestión, resultando en un manejo fragmentado de los datos clínicos. Esto causa dificultades para organizar y acceder a la información relevante durante las consultas y problemas para programar y gestionar citas de manera eficiente. Esta situación genera una carga administrativa adicional para los profesionales de la salud mental, aumenta el riesgo de errores en el manejo de la información clínica, y limita la capacidad de ofrecer un enfoque de tratamiento multidisciplinario.
+  <br><br>
+- **Gap**: Existe una brecha significativa en el mercado en cuanto a soluciones tecnológicas integradas y especializadas para la gestión de información en instituciones de salud mental. Aunque muchas instituciones han adoptado herramientas básicas como agendas en línea, aún no se ha implementado una plataforma que integre todas las funcionalidades necesarias para la gestión eficiente y segura de la información clínica.
+  <br><br>
+- **Vision/Strategy**: Nuestra visión es desarrollar una plataforma que centralice todas las funcionalidades necesarias para la gestión diaria en un solo lugar, asegurando que sea segura, fácil de usar, y capaz de mejorar la organización de consultas, el acceso a la información, y la coordinación entre los diferentes profesionales. La estrategia incluye integrar funcionalidades como la gestión de citas, acceso a datos clínicos, y soporte para tratamientos multidisciplinarios, con la posibilidad de futuras integraciones de IoT dentro de las instituciones.
+  <br><br>
+- **Initial Segment**: El segmento inicial para la implementación de esta plataforma estará compuesto por instituciones médicas de salud mental en América Latina que ya muestran un interés en modernizar su gestión interna y que han adoptado parcialmente herramientas digitales, pero carecen de una solución integrada que cubra todas sus necesidades.
+
+A partir de lo anterior, presentamos los **Problem Statements** identificados:
+1. **Problem Statement 1: Fragmentación en el Manejo de Datos Clínicos**
+   * Las herramientas tecnológicas actuales en instituciones de salud mental no satisfacen las necesidades específicas de gestión, lo que provoca una fragmentación en el manejo de datos clínicos.
+
+Solution: Desarrollar una plataforma centralizada que integre todas las funcionalidades necesarias para la gestión de datos clínicos en un solo lugar.   
+    <br>
+2. **Problem Statement 2: Dificultades en la Organización y Acceso a Información durante las Consultas**
+   * Los profesionales de la salud mental enfrentan complicaciones para organizar y acceder a información relevante durante las consultas.
+
+Solution: Implementar un sistema intuitivo de búsqueda y filtrado de información dentro de la plataforma, permitiendo que los profesionales accedan rápidamente a la información más relevante para cada consulta.
+    <br><br>
+3. **Problem Statement 3: Problemas en la Programación y Gestión Eficiente de Citas**
+   * Las herramientas actuales dificultan la programación y gestión eficiente de citas.
+
+Solution: Incorporar un módulo de gestión de citas que permita a los profesionales y pacientes programar, modificar y cancelar citas fácilmente.
+    <br><br>
+4. **Problem Statement 4: Carga Administrativa Adicional para los Profesionales de la Salud Mental**
+   * La situación actual genera una carga administrativa significativa para los profesionales de la salud mental.
+
+Solution: Automatizar procesos administrativos dentro de la plataforma, como la generación de informes, la actualización de registros y la gestión de citas.
+    <br><br>
+5. **Problem Statement 5: Riesgo Incrementado de Errores en el Manejo de la Información Clínica**
+    * La fragmentación y las dificultades mencionadas aumentan el riesgo de cometer errores en el manejo de la información clínica.
+
+Solution: Implementar mecanismos de verificación y validación de datos dentro de la plataforma, además de controles de calidad automáticos para reducir la posibilidad de errores. También se podría incluir un sistema de auditoría que permita rastrear cambios en la información clínica para garantizar la precisión y seguridad de los datos.
+    <br><br>
+6. **Problem Statement 6: Limitación en la Capacidad de Ofrecer un Enfoque de Tratamiento Multidisciplinario**
+    * Los problemas actuales limitan la capacidad de los profesionales de salud mental para ofrecer un enfoque de tratamiento multidisciplinario eficaz.
+
+Solution: Desarrollar funcionalidades colaborativas dentro de la plataforma que permitan a los diferentes profesionales de la salud mental acceder y compartir información de manera segura y en tiempo real.
+<br><br>
+
+Estas soluciones están diseñadas para abordar de manera integral los desafíos identificados, mejorando la eficiencia y calidad de la atención en instituciones de salud mental.
