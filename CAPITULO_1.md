@@ -315,3 +315,14 @@ Crear un panel de control que permita a los profesionales monitorear el progreso
 #### 1.2.2.4. Lean UX Canvas
 
 ![Lean UX Canvas](assets/chapter01/LeanUXCanvas.png)
+
+## 1.3. Segmentos Objetivos
+El segmento objetivo de este análisis se centra en dos grupos principales:
+1. **Psiquiatras y Profesionales de la Salud Mental:**
+
+Psiquiatras, que trabajan tanto en el sector público como en el privado. Generalmente, se encuentran en las principales ciudades del país, como Lima, Arequipa y Trujillo. En Perú, hay un déficit significativo de profesionales especializados en salud mental, con solo 2 a 3 psiquiatras por cada 100,000 habitantes. Esta escasez genera una sobrecarga de trabajo, afectando la calidad de la atención y la eficiencia en el manejo de casos clínicos.
+   <br><br>
+2. **Pacientes con Trastornos Mentales:**
+
+Individuos de todas las edades y géneros, pero con un mayor enfoque en adultos jóvenes (18-35 años) y mujeres, quienes son más propensas a buscar atención para trastornos como la depresión y la ansiedad. Más de un millón de personas en Perú padecen trastornos mentales, y 8 de cada 10 no reciben la atención que necesitan. Los casos han aumentado significativamente desde 2021, reflejando la gravedad de la crisis en la salud mental en el país.
+
