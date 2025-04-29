@@ -208,4 +208,60 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
     - [4.2.X.6. Bounded Context Software Architecture Code Level Diagrams](/chapter04.md#443-web-applications-user-flow-diagrams)
       - [4.2.X.6.1. Bounded Context Domain Layer Class Diagrams](/chapter04.md) 
       - [4.2.X.6.2. Bounded Context Database Design Diagram](/chapter04.md#45-web-applications-prototyping)
+      - 
+### [Conclusiones](/chapter05.md)
+- [Conclusiones y recomendaciones](/chapter05.md#conclusiones)
 
+### [Bibliografía](/chapter05.md)
+- [Referencias bibliográficas](/chapter05.md#referencias-bibliográficas)
+
+### [Anexos](/chapter05.md)
+- [Anexos](/chapter05.md#anexos)
+
+  ---
+# Student Outcome
+El curso tiene el Student Outcome 5, el cual consiste en la capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones realizadas de manera grupal.
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Criterío Específico</th>
+      <th style="background-color: #333; color: #fff;">Acciones Realizadas</th>
+      <th style="background-color: #333; color: #fff;">Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>
+        <strong>TB1:</strong><br>
+        - Riega Salas, Jose Miguel: Colaboré con el desarrollo de la carátula, capitulo 1 y ppt del proyecto, cumpliendo responsablemente con las tareas asignadas hacia mi.<br>
+        - Palomino Hurtado, Juan Francisco:<br>
+        - Galvan Cerron, George Aldo:<br>
+        - Guerrero Vasquez, Jhon Danny:<br>
+        - Iparraguirre Rueda, Cristian Luis:<br>
+        - Reyes Valenzuela, Renato German:
+      </td>
+      <td>
+        <strong>TB1:</strong> En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos.
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>
+        <strong>TB1:</strong><br>
+        - Riega Salas, Jose Miguel: Pude realizar un trabajo dinamico al intervenir en el informe del nuestro proyecto, asegurando el cumplimiento de tareas y proporcionando evidencias del desarrollo del sprint respectivo.<br>
+        - Palomino Hurtado, Juan Francisco:<br>
+        - Galvan Cerron, George Aldo:<br>
+        - Guerrero Vasquez, Jhon Danny:<br>
+        - Iparraguirre Rueda, Cristian Luis:<br>
+        - Reyes Valenzuela, Renato German:
+      </td>
+      <td>
+        <strong>TB1:</strong> El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto.
+      </td>
+    </tr>
+  </tbody>
+</table>
