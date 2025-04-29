@@ -314,7 +314,7 @@ Crear un panel de control que permita a los profesionales monitorear el progreso
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](assets/chapter01/LeanUXCanvas.png)
+![Lean UX Canvas](img/chapter01/LeanUXCanvas.png)
 
 ## 1.3. Segmentos Objetivos
 El segmento objetivo de este análisis se centra en dos grupos principales:
