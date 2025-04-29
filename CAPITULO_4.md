@@ -79,6 +79,7 @@
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.X. Bounded Context: `<Bounded Context Name>`
 - 4.2.X.1. Domain Layer
+  
 - 4.2.X.2. Interface Layer
 - 4.2.X.3. Application Layer
 - 4.2.X.4. Infrastructure Layer
