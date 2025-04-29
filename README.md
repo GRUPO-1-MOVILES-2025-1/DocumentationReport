@@ -238,10 +238,10 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
       <td>
         <strong>TB1:</strong><br>
         - Riega Salas, Jose Miguel: Colaboré con el desarrollo de la carátula, capitulo 1 y ppt del proyecto, cumpliendo responsablemente con las tareas asignadas hacia mi.<br>
-        - Palomino Hurtado, Juan Francisco:<br>
-        - Galvan Cerron, George Aldo:<br>
-        - Guerrero Vasquez, Jhon Danny:<br>
-        - Iparraguirre Rueda, Cristian Luis:<br>
+        - Palomino Hurtado, Juan Francisco:(texto)<br>
+        - Galvan Cerron, George Aldo:(texto)<br>
+        - Guerrero Vasquez, Jhon Danny:(texto)<br>
+        - Iparraguirre Rueda, Cristian Luis:(texto)<br>
         - Reyes Valenzuela, Renato German:
       </td>
       <td>
@@ -253,11 +253,11 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
       <td>
         <strong>TB1:</strong><br>
         - Riega Salas, Jose Miguel: Pude realizar un trabajo dinamico al intervenir en el informe del nuestro proyecto, asegurando el cumplimiento de tareas y proporcionando evidencias del desarrollo del sprint respectivo.<br>
-        - Palomino Hurtado, Juan Francisco:<br>
-        - Galvan Cerron, George Aldo:<br>
-        - Guerrero Vasquez, Jhon Danny:<br>
-        - Iparraguirre Rueda, Cristian Luis:<br>
-        - Reyes Valenzuela, Renato German:
+        - Palomino Hurtado, Juan Francisco:(texto)<br>
+        - Galvan Cerron, George Aldo:(texto)<br>
+        - Guerrero Vasquez, Jhon Danny:(texto)<br>
+        - Iparraguirre Rueda, Cristian Luis:(texto)<br>
+        - Reyes Valenzuela, Renato German:(texto)
       </td>
       <td>
         <strong>TB1:</strong> El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto.
