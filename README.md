@@ -155,7 +155,7 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
 ### [Student Outcome](#student-outcome-1)
 
 ### [Capítulo I: Introducción](/chapter01.md)
-- [1.1. Startup Profile](/chapter01.md#11-startup-profile)
+- [1.1. Startup Profile](/CAPITULO1.md#11-startup-profile)
   - [1.1.1. Descripción de la Startup](/chapter01.md#111-description-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](/chapter01.md#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](/chapter01.md#12-solution-profile)
