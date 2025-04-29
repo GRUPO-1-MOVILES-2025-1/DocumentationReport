@@ -35,10 +35,10 @@
   <img src="assets/UPC_logo_transparente.png"  style="width:500px; height:auto;">
 </p>
 
-# APLICACIONES WEBS (SW52)
-## PROFESOR: Tinoco Licas, Juan Carlos
+# APLICACIONES PARA DISPOSITIVOS MÓVILES
+## PROFESOR: David Gerardo Quevedo Velasco
 ## INFORME TB1
-## START UP: WebSource
+## START UP: MovileSource
 ## PRODUCTO: PSYMED
 
 ### INTEGRANTES:
