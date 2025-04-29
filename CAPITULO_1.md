@@ -40,7 +40,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Riega Salas Jose Miguel</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/Jose-photo.jpg" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Jose-photo.jpg" style="width:700px; height:auto;"></td>
     <td> Soy estudiante de ingenieria de software en la universidad de ciencias aplicadas, me considero apasionado por el aprendizaje continuo, polivalente y responsable; en busca de nuevas oportunidades y de dedicarme en lo que me apasiona. Poseo conocimientos en metodologias ágiles y lenguajes como C++, Javascript, HTML, Python y Angular. </td>
   </tr>
 
@@ -48,7 +48,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Palomino Hurtado, Juan Francisco</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/Francisco-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Francisco-photo.png" style="width:700px; height:auto;"></td>
     <td> descripción </td>
   </tr>
 
@@ -56,7 +56,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Galvan Cerron, George Aldo</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/Aldo-photo.jpg" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Aldo-photo.jpg" style="width:700px; height:auto;"></td>
     <td> descripcion </td>
   </tr>
 
@@ -64,7 +64,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2">Guerrero Vasquez, Jhon Danny </th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/Danny-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Danny-photo.png" style="width:700px; height:auto;"></td>
     <td> descripcion </td>
   </tr>
 
@@ -72,7 +72,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2">Iparraguirre Rueda, Cristian Luis</th>
   </tr>
   <tr>
-    <td><img src="/assets/chapter01/Luis-photo.jpeg" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Luis-photo.jpeg" style="width:700px; height:auto;"></td>
     <td> descripcion </td>
   </tr>
 
@@ -80,7 +80,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2"> Reyes Valenzuela, Renato German </th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/German-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/German-photo.png" style="width:700px; height:auto;"></td>
     <td> descripcion </td>
 
 </table>
