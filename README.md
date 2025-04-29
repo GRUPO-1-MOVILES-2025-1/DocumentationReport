@@ -32,7 +32,7 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 <p align="center">
-  <img src="assets/UPC_logo_transparente.png"  style="width:500px; height:auto;">
+  <img src="img/UPC_logo_transparente.png"  style="width:500px; height:auto;">
 </p>
 
 # APLICACIONES PARA DISPOSITIVOS MÓVILES
