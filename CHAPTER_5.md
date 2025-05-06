@@ -28,6 +28,10 @@
 
 ### 5.1.4.1. Mobile Applications Wireframes
 
+<p align="center">
+  <img src="img/wireframe-mobile.png" style="width:350px; height:auto;">
+</p>
+
 ### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
 ### 5.1.4.3. Mobile Applications Mock-ups
