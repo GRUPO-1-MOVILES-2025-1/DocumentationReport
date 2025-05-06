@@ -164,8 +164,83 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </tr>
 </table>
 
-
 #### 6.2.1.3. Development Evidence for Sprint Review.
+<table>
+  <tr>
+    <th colspan="2">Repository</th> <th colspan="2">Branch</th>
+    <th colspan="2">Commit Id</th> <th colspan="2">Commit Message</th>
+    <th colspan="2">Commit Message Body</th>
+    <th colspan="2">Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">a1b2c3d</td>
+    <td colspan="2">chore: initial project structure</td>
+    <td colspan="2">Setup del entorno inicial para la Landing Page</td>
+    <td colspan="2">04/05/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">d4e5f6g</td>
+    <td colspan="2">feat: responsive hero section</td>
+    <td colspan="2">
+      Creación de sección principal con diseño adaptativo para US01
+    </td>
+    <td colspan="2">05/05/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">h7i8j9k</td>
+    <td colspan="2">feat: sección propósito de la aplicación</td>
+    <td colspan="2">Sección explicando el objetivo del sistema (US02)</td>
+    <td colspan="2">06/05/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">l0m1n2o</td>
+    <td colspan="2">feat: sección de soporte técnico</td>
+    <td colspan="2">Sección de contacto y ayuda para visitantes (US03)</td>
+    <td colspan="2">05/05/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">p3q4r5s</td>
+    <td colspan="2">style: actualización de tipografía y colores</td>
+    <td colspan="2">
+      Implementación de estilos visuales y tipografía clara (US05)
+    </td>
+    <td colspan="2">06/05/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">t6u7v8w</td>
+    <td colspan="2">feat: integración de imágenes y gráficos</td>
+    <td colspan="2">
+      Inclusión de gráficos relevantes e imágenes llamativas (US04)
+    </td>
+    <td colspan="2">04/05/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">x9y0z1a</td>
+    <td colspan="2">feat: diseño atractivo general</td>
+    <td colspan="2">
+      Aplicación de diseño moderno a toda la Landing Page (US06)
+    </td>
+    <td colspan="2">01/05/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">Psymed-LandingPage</td>
+    <td colspan="2">main</td> <td colspan="2">b2c3d4e</td>
+    <td colspan="2">feat: interactividad en navegación</td>
+    <td colspan="2">
+      Agregado de transiciones y animaciones para una navegación fluida (US07)
+    </td>
+    <td colspan="2">06/05/2025</td>
+  </tr>
+</table>;
+
+
 #### 6.2.1.4. Execution Evidence for Sprint Review.
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review.
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review.
