@@ -36,6 +36,24 @@
 
 ### 5.1.4.3. Mobile Applications Mock-ups
 
+<p align="center">
+  <img src="img/mockup-mobile1.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile2.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile3.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile4.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile5.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile6.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile7.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile8.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile9.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile10.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile11.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile12.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile13.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile14.png" style="width:350px; height:auto;">
+
+</p>
+
 ### 5.1.4.4. Mobile Applications User Flow Diagrams
 
 ### 5.1.4.5. Mobile Applications Prototyping
