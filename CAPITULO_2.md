@@ -392,13 +392,13 @@ expectativas de nuestros usuarios.
 **Segmento Objetivo: Profesional de la salud mental**
 
 <p align="center">
-  <img src="assets/chapter02/Segments/So-Mental%20Medic.png" style="width:800px; height:auto;">
+  <img src="img/So-Mental%20Medic.png" style="width:800px; height:auto;">
 </p>
 
 **Segmento Objetivo: Paciente**
 
 <p align="center">
-  <img src="assets/chapter02/Segments/So-patient.png" style="width:800px; height:auto;">
+  <img src="img/So-patient.png" style="width:800px; height:auto;">
 </p>
 
 ### 2.3.2. User Task Matrix
@@ -452,13 +452,13 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 **Segmento 1: Profesionales de la salud mental**
 
 <p align="center">
-  <img src="assets/chapter02/Graphics/UJMMedico.png"  style="width:800px; height:auto;">
+  <img src="img/UJMMedico.png"  style="width:800px; height:auto;">
 </p>
 
 **Segmento 2: Pacientes**
 
 <p align="center">
-  <img src="assets/chapter02/Graphics/UJMPaciente.png"  style="width:800px; height:auto;">
+  <img src="img/UJMPaciente.png"  style="width:800px; height:auto;">
 </p>
 
 ### 2.3.4. Empathy Mapping
@@ -467,26 +467,26 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 **Segmento 1: Profesionales de la salud mental**
 
 <p align="center">
-  <img src="assets/chapter02/Graphics/EMMedico.png"  style="width:800px; height:auto;">
+  <img src="img/EMMedico.png"  style="width:800px; height:auto;">
 </p>
 
 ### **Segmento 2: Pacientes**
 
 <p align="center">
-  <img src="assets/chapter02/Graphics/EMPaciente.png"  style="width:800px; height:auto;">
+  <img src="img/EMPaciente.png"  style="width:800px; height:auto;">
 </p>
 
 ### 2.3.5. As-is Scenario Mapping
 - **Segmento objetivo:** Profesionales de la salud
 
 <p align="center">
-  <img src="assets/chapter02/Graphics/AS-IS%20Pisquiatra.jpg"  style="width:800px; height:auto;">
+  <img src="img/AS-IS%20Pisquiatra.jpg"  style="width:800px; height:auto;">
 </p>
 
 - **Segmento objetivo:** Pacientes    
 
 <p align="center">
-  <img src="assets/chapter02/Graphics/AS-IS%20Cliente.jpg"  style="width:800px; height:auto;">
+  <img src="img/AS-IS%20Cliente.jpg"  style="width:800px; height:auto;">
 </p>
 
 ## 2.4. Ubiquitous Language
