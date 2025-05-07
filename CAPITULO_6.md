@@ -39,7 +39,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </tr>
 <tr>
     <td colspan="5">Sprint n – 1 Review Summary</td>
-    <td colspan="8">En esta primera sección se planificó el desarrollo de la Landing Page de la aplicación móvil PSYMED, orientada a presentar visualmente el objetivo del proyecto y facilitar el primer contacto del usuario con la app.</td>
+    <td colspan="8">En esta primera sección se planificó el desarrollo de la Landing Page de la aplicación móvil PsyMed, orientada a presentar visualmente el objetivo del proyecto y facilitar el primer contacto del usuario con la app.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 1 Retrospective Summary</td>
@@ -50,7 +50,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Finalizar el diseño e implementación de la Landing Page mobile-first de PSYMED</td>
+    <td colspan="8">Finalizar el diseño e implementación de la Landing Page mobile-first de PsyMed</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
@@ -102,7 +102,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
     <td colspan="2">Información clara del propósito de la app</td>
     <td>2</td>
     <td colspan="2">Redactar y estructurar contenido informativo</td>
-    <td colspan="3">Mostrar claramente la finalidad de PSYMED para el usuario nuevo.</td>
+    <td colspan="3">Mostrar claramente la finalidad de PsyMed para el usuario nuevo.</td>
     <td>1</td>
     <td colspan="2">Cristian, Francisco</td>
     <td>Done</td>
@@ -238,10 +238,35 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
     </td>
     <td colspan="2">06/05/2025</td>
   </tr>
-</table>;
-
+</table>
 
 #### 6.2.1.4. Execution Evidence for Sprint Review.
+Para este primer entregable, hemos elaborado la Landing Page del proyecto de "PsyMed". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+
+**Sección de Inicio**: Se implementó el Header y la página principal de nuestra Landing Page.
+
+![Inicio](img/Landing1.png)
+
+**Sección de Aplicación**: Se implementó la sección de la aplicación detallando el propósito de la misma.
+
+![Aplicación](img/Landing2.png)
+
+**Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
+
+![Servicios](img/Landing3.png)
+
+**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
+
+![Planes](img/Landing4.png)
+
+**Sección de Creadores**: Se añadió la sección de información sobre los desarrolladores de la plataforma.
+
+![Creadores](img/Landing5.png)
+
+**Sección de About the Team**: Se implementó la sección del About the Team
+
+![About the Team](img/Landing6.png)
+
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review.
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review.
 #### 6.2.1.7. Team Collaboration Insights during Sprint.
