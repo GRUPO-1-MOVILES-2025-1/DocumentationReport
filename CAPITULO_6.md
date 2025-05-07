@@ -268,5 +268,76 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ps
 ![About the Team](img/Landing6.png)
 
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review.
+Durante este Sprint se avanzó en la documentación de los servicios relacionados a la funcionalidad de la Landing Page, así como los primeros servicios de autenticación. La documentación se elaboró utilizando **OpenAPI (Swagger)** y refleja los endpoints implementados para el inicio de sesión, registro y recuperación de contraseña, lo cual permite una base clara para los desarrolladores frontend y testers.
+
+A continuación se detalla la tabla de endpoints documentados hasta el momento:
+
+<table>
+<tr>
+    <th>Endpoint</th>
+    <th>HTTP Verb</th>
+    <th>Description</th>
+    <th>Request Syntax</th>
+    <th>Parameters</th>
+    <th>Example Response</th>
+    <th>Documentation URL</th>
+</tr>
+
+<tr>
+    <td>/api/auth/register</td>
+    <td>POST</td>
+    <td>Permite a un profesional o paciente registrarse en el sistema.</td>
+    <td>POST /api/auth/register</td>
+    <td>
+        - `name`: string<br>
+        - `email`: string<br>
+        - `password`: string<br>
+        - `role`: string (patient | professional)
+    </td>
+    <td>
+        {
+          "message": "Usuario registrado exitosamente",
+          "userId": "abc123"
+        }
+    </td>
+    <td>http://localhost:3000/api-docs</td>
+</tr>
+
+<tr>
+    <td>/api/auth/login</td>
+    <td>POST</td>
+    <td>Permite iniciar sesión a pacientes o profesionales.</td>
+    <td>POST /api/auth/login</td>
+    <td>
+        - `email`: string<br>
+        - `password`: string
+    </td>
+    <td>
+        {
+          "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+          "role": "patient"
+        }
+    </td>
+    <td>http://localhost:3000/api-docs</td>
+</tr>
+
+<tr>
+    <td>/api/auth/recover-password</td>
+    <td>POST</td>
+    <td>Envía un correo de recuperación al usuario.</td>
+    <td>POST /api/auth/recover-password</td>
+    <td>
+        - `email`: string
+    </td>
+    <td>
+        {
+          "message": "Se ha enviado un enlace de recuperación al correo electrónico"
+        }
+    </td>
+    <td>http://localhost:3000/api-docs</td>
+</tr>
+
+</table>
+
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review.
 #### 6.2.1.7. Team Collaboration Insights during Sprint.
