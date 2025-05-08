@@ -50,7 +50,8 @@
   <img src="img/mockup-mobile11.png" style="width:350px; height:auto;"><br>
   <img src="img/mockup-mobile12.png" style="width:350px; height:auto;"><br>
   <img src="img/mockup-mobile13.png" style="width:350px; height:auto;"><br>
-  <img src="img/mockup-mobile14.png" style="width:350px; height:auto;">
+  <img src="img/mockup-mobile14.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile15.png" style="width:350px; height:auto;">
 
 </p>
 
