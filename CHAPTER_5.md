@@ -15,19 +15,19 @@ Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digita
 #10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
 
 <p align="center">
-  <img src="assets/chapter04/achromatic%20colors/aqua_color.png"  style="width:500px; height:auto;">
+  <img src="img/chapter5/achromatic%20colors/aqua_color.png"  style="width:500px; height:auto;">
 </p>
 
 #68D585 (Verde Serenidad): Este verde suave y sereno se utiliza para ciertos íconos, aportando una sensación de equilibrio y sutileza. Es un tono que complementa la paleta principal, ayudando a guiar visualmente al usuario sin distraer.
 
 <p align="center">
-  <img src="assets/chapter04/achromatic%20colors/green_icons_color.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/achromatic%20colors/green_icons_color.png" style="width:500px; height:auto;">
 </p>
 
 #081828 (Azul Profundo - Secundario): Este color azul oscuro se emplea como color secundario en botones, el pie de página y otros elementos visuales. Representa la estabilidad y la confianza, ofreciendo un contraste sólido y profesional frente a los tonos verdes más brillantes de la paleta.
 
 <p align="center">
-  <img src="assets/chapter04/achromatic%20colors/blue_color.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/achromatic%20colors/blue_color.png" style="width:500px; height:auto;">
 </p>
 
 **Achromatic Colors:**
@@ -35,31 +35,31 @@ Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digita
 #FFFFFF (Blanco Puro): El blanco es fundamental para los espacios en blanco y como color de fondo principal. Representa la pureza y la claridad, asegurando que el contenido sea fácilmente legible y que la interfaz se sienta abierta y acogedora.
 
 <p align="center">
-  <img src="assets/chapter04/chromatic%20colors/white_color.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/chromatic%20colors/white_color.png" style="width:500px; height:auto;">
 </p>
 
 #EEEEEE (Gris Suave): Un gris muy claro que se emplea en fondos y separadores. Ofrece una base limpia y ligera, perfecta para mantener una apariencia fresca y ordenada en la interfaz.
 
 <p align="center">
-  <img src="assets/chapter04/chromatic%20colors/soft_gray_color.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/chromatic%20colors/soft_gray_color.png" style="width:500px; height:auto;">
 </p>
 
 #727272 (Gris Equilibrio): Este tono de gris medio se utiliza para elementos secundarios y textos que requieren un enfoque sutil. Representa el equilibrio y la neutralidad, aportando un contraste suave sin dominar la atención visual.
 
 <p align="center">
-  <img src="assets/chapter04/chromatic%20colors/other_gray.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/chromatic%20colors/other_gray.png" style="width:500px; height:auto;">
 </p>
 
 #4F4F4F (Gris Profundo): Este gris oscuro se utiliza para textos y elementos gráficos que requieren mayor peso visual, sin llegar a la intensidad del negro. Es un color que transmite seriedad y formalidad, ideal para secciones importantes del proyecto.
 
 <p align="center">
-  <img src="assets/chapter04/chromatic%20colors/gray_color.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/chromatic%20colors/gray_color.png" style="width:500px; height:auto;">
 </p>
 
 #000000 (Negro Absoluto): El negro se reserva para elementos que necesitan el máximo contraste y definición, como el texto principal y ciertos íconos. Representa la autoridad y la claridad, garantizando la máxima legibilidad y enfoque.
 
 <p align="center">
-  <img src="assets/chapter04/chromatic%20colors/black_color.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/chromatic%20colors/black_color.png" style="width:500px; height:auto;">
 </p>
 
 **Typography: Sans Serif**
@@ -68,23 +68,23 @@ Para el proyecto Psymed, utilizaremos una fuente sans serif, que asegura una lec
 
 - **DM Sans - Sans Serif**
 <p align="center">
-  <img src="assets/chapter04/fonts/DMSans.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/fonts/DMSans.png" style="width:500px; height:auto;">
 </p>
 
 - **Spartan - Sans Serif**
 <p align="center">
-  <img src="assets/chapter04/fonts/spartan.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/fonts/spartan.png" style="width:500px; height:auto;">
 </p>
 
 **Icon:**
 <p align="center">
-  <img src="assets/psymed_logo.svg" style="width:300px; height:auto;">
+  <img src="img/psymed_logo.svg" style="width:300px; height:auto;">
 </p>
 
 El ícono de Psymed presenta una flama estilizada en un fondo circular La flama simboliza la energía vital, el crecimiento y la transformación, reflejando el enfoque de Psymed en el bienestar mental y emocional. El fondo verde menta complementa esta idea, transmitiendo calma y equilibrio, alineado con los valores de cuidado y apoyo que representa la plataforma.
 
 <p align="center">
-  <img src="assets/chapter04/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
+  <img src="img/chapter5/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
 </p>
 
 Este logo no solo representa la identidad visual de Psymed, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
