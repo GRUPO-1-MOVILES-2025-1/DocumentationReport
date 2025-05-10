@@ -389,7 +389,9 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
   <img src="img/mockup-mobile16.png" style="width:350px; height:auto;"><br>
   <img src="img/mockup-mobile17.png" style="width:350px; height:auto;"><br>
   <img src="img/mockup-mobile18.png" style="width:350px; height:auto;"><br>
-  <img src="img/mockup-mobile19.png" style="width:350px; height:auto;">
+  <img src="img/mockup-mobile19.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile20.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile21.png" style="width:350px; height:auto;">
 
 </p>
 
