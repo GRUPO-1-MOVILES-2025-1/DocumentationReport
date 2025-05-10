@@ -363,13 +363,13 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 ### 5.1.4.1. Mobile Applications Wireframes
 
 <p align="center">
-  <img src="img/wireframe-mobile.png" style="width:350px; height:auto;">
-  <img src="img/wireframe-mobile15.png" style="width:350px; height:auto;">
-  <img src="img/wireframe-mobile16.png" style="width:350px; height:auto;">
-  <img src="img/wireframe-mobile17.png" style="width:350px; height:auto;">
-  <img src="img/wireframe-mobile18.png" style="width:350px; height:auto;">
-  <img src="img/wireframe-mobile19.png" style="width:350px; height:auto;">
-  <img src="img/wireframe-mobile20.png" style="width:350px; height:auto;">
+  <img src="img/wireframe-mobile.png" style="width:350px; height:auto;"><br>
+  <img src="img/wireframe-mobile15.png" style="width:350px; height:auto;"><br>
+  <img src="img/wireframe-mobile16.png" style="width:350px; height:auto;"><br>
+  <img src="img/wireframe-mobile17.png" style="width:350px; height:auto;"><br>
+  <img src="img/wireframe-mobile18.png" style="width:350px; height:auto;"><br>
+  <img src="img/wireframe-mobile19.png" style="width:350px; height:auto;"><br>
+  <img src="img/wireframe-mobile20.png" style="width:350px; height:auto;"><br>
   <img src="img/wireframe-mobile21.png" style="width:350px; height:auto;">
 </p>
 
