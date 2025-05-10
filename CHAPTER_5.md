@@ -375,6 +375,10 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
+<p align="center">
+  <img src="img/wireframe-mobile-diagram.png" style="width:800px; height:auto;">
+</p>
+
 ### 5.1.4.3. Mobile Applications Mock-ups
 
 <p align="center">
