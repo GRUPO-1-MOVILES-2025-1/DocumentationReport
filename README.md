@@ -1,34 +1,3 @@
-<style>
-  body {
-    font-family: 'Times New Roman', sans-serif;
-    text-align: justify;
-    font-size: 12px;
-    margin-left: 2em;
-    margin-right: 2em;
-    line-height: 2;
-  }
-  
-  p {
-    text-indent: 2em; 
-  }
-
-  h1 {
-    margin-left: 0; 
-  }
-
-  h2 {
-    margin-left: 0; 
-  }
-
-  h3 {
-    margin-left: 2em;
-  }
-
-  h4 {
-    margin-left: 4em; 
-  }
-</style>
-
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 <p align="center">
