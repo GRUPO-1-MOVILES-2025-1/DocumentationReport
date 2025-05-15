@@ -17,7 +17,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Palomino Hurtado, Juan Francisco</th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/Francisco-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Francisco-photo.JPG" style="width:700px; height:auto;"></td>
     <td> descripción </td>
   </tr>
 
