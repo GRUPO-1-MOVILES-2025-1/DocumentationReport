@@ -83,7 +83,7 @@ Para superar este desafío, es esencial implementar soluciones tecnológicas que
 ¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
 
 ### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2.1. Lean UX Problem Statement.
 
 Estamos desarrollando una plataforma de software para instituciones médicas especializadas en salud mental, diseñada para mejorar la gestión integrada y eficiente de la información de pacientes y médicos. Las herramientas tecnológicas actuales en estas instituciones no satisfacen las necesidades específicas de gestión, lo que provoca un manejo fragmentado de datos clínicos, complicaciones en la organización y acceso a información durante las consultas, y dificultades en la programación y gestión eficiente de citas. Esta situación impone una carga administrativa adicional sobre los profesionales de salud mental, aumenta el riesgo de errores en el manejo de información clínica, y limita la capacidad de ofrecer un tratamiento multidisciplinario efectivo.
 >*Según el análisis de funcionalidades médicas en línea de 200 hospitales en América Latina y el Caribe, aunque la adopción de agendas en línea y la visualización de exámenes médicos es significativa, la implementación de servicios de telemedicina y otras funcionalidades presenta un margen considerable para el desarrollo y la mejora (s.f.).*
@@ -104,34 +104,8 @@ Las herramientas tecnológicas actuales en estas instituciones no cumplen con la
   <br><br>
 - **Initial Segment**: El segmento inicial para la implementación de esta plataforma estará compuesto por instituciones médicas de salud mental en América Latina que ya muestran un interés en modernizar su gestión interna y que han adoptado parcialmente herramientas digitales, pero carecen de una solución integrada que cubra todas sus necesidades.
 
-A partir de lo anterior, presentamos los **Problem Statements** identificados:
-1. **Problem Statement 1: Fragmentación en el Manejo de Datos Clínicos**
-   * Las herramientas tecnológicas actuales en instituciones de salud mental no satisfacen las necesidades específicas de gestión, lo que provoca una fragmentación en el manejo de datos clínicos.
-
-Solution: Desarrollar una plataforma centralizada que integre todas las funcionalidades necesarias para la gestión de datos clínicos en un solo lugar.   
-    <br>
-2. **Problem Statement 2: Dificultades en la Organización y Acceso a Información durante las Consultas**
-   * Los profesionales de la salud mental enfrentan complicaciones para organizar y acceder a información relevante durante las consultas.
-
-Solution: Implementar un sistema intuitivo de búsqueda y filtrado de información dentro de la plataforma, permitiendo que los profesionales accedan rápidamente a la información más relevante para cada consulta.
-    <br><br>
-3. **Problem Statement 3: Problemas en la Programación y Gestión Eficiente de Citas**
-   * Las herramientas actuales dificultan la programación y gestión eficiente de citas.
-
-Solution: Incorporar un módulo de gestión de citas que permita a los profesionales y pacientes programar, modificar y cancelar citas fácilmente.
-    <br><br>
-4. **Problem Statement 4: Carga Administrativa Adicional para los Profesionales de la Salud Mental**
-   * La situación actual genera una carga administrativa significativa para los profesionales de la salud mental.
-
-Solution: Automatizar procesos administrativos dentro de la plataforma, como la generación de informes, la actualización de registros y la gestión de citas.
-    <br><br>
-5. **Problem Statement 5: Riesgo Incrementado de Errores en el Manejo de la Información Clínica**
-    * La fragmentación y las dificultades mencionadas aumentan el riesgo de cometer errores en el manejo de la información clínica.
-
-Solution: Implementar mecanismos de verificación y validación de datos dentro de la plataforma, además de controles de calidad automáticos para reducir la posibilidad de errores. También se podría incluir un sistema de auditoría que permita rastrear cambios en la información clínica para garantizar la precisión y seguridad de los datos.
-    <br><br>
-6. **Problem Statement 6: Limitación en la Capacidad de Ofrecer un Enfoque de Tratamiento Multidisciplinario**
-    * Los problemas actuales limitan la capacidad de los profesionales de salud mental para ofrecer un enfoque de tratamiento multidisciplinario eficaz.
+A partir de lo anterior, presentamos el **Problem Statement** identificado:
+1. Las instituciones de salud mental enfrentan una problemática central que incluye la fragmentación en el manejo de datos clínicos, dificultades para organizar y acceder a información durante las consultas, problemas en la gestión eficiente de citas y una carga administrativa excesiva para los profesionales. Estas deficiencias no solo incrementan el riesgo de errores en el manejo de la información clínica, sino que también limitan la capacidad de ofrecer un enfoque de tratamiento multidisciplinario eficaz. Para abordar estos desafíos, se propone el desarrollo de una plataforma centralizada que integre todas las funcionalidades necesarias, permitiendo una gestión clínica unificada, acceso rápido a la información mediante filtros inteligentes, programación eficiente de citas, automatización de procesos administrativos y mecanismos de verificación, auditoría y colaboración entre profesionales, con el objetivo de optimizar los procesos y mejorar la calidad del tratamiento en entornos de salud mental.
 
 Solution: Desarrollar funcionalidades colaborativas dentro de la plataforma que permitan a los diferentes profesionales de la salud mental acceder y compartir información de manera segura y en tiempo real.
 <br><br>
