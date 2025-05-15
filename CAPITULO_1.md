@@ -25,7 +25,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Galvan Cerron, George Aldo</th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/Aldo-photo.jpg" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/George-photo.JPG" style="width:700px; height:auto;"></td>
     <td> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, tengo experiencia en desarrollo de aplicaciones web con lenguajes como C#, Java, Python y C++ en backend. Por otro lado también tengo afinidad con Vue y Angular en desarrollo Frontend </td>
   </tr>
 
@@ -33,7 +33,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2">Guerrero Vasquez, Jhon Danny </th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/Danny-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Jhon-photo.JPG" style="width:700px; height:auto;"></td>
     <td> Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con un marcado interés en algoritmos y estructuras de datos. Manejo C++ con solidez y tengo afinidad por JavaScript y el desarrollo frontend, especialmente en la creación de interfaces dinámicas y orientadas a la experiencia del usuario.</td>
   </tr>
 
