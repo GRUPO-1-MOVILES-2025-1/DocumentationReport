@@ -38,6 +38,24 @@ Gracias a esta estructura de gestión del código fuente, se logró un desarroll
 
 ### 6.1.3. Source Code Style Guide & Conventions.
 ### 6.1.4. Software Deployment Configuration.
+El proceso de despliegue del sistema **Psymed** se abordó en dos partes: el frontend (Landing Page informativa) y el backend (servicios en C#, actualmente en desarrollo).
+
+#### Despliegue del Frontend (Landing Page)
+
+La Landing Page del proyecto fue desarrollada utilizando tecnologías web estándar: **HTML5**, **CSS3** y **JavaScript puro**, sin el uso de frameworks adicionales. Su propósito principal es brindar información general sobre la solución Psymed y servir como punto de acceso a los módulos del sistema.
+
+El despliegue se realizó mediante **GitHub Pages**, un servicio gratuito que permite alojar páginas web estáticas directamente desde un repositorio GitHub.
+
+El proceso consistió en:
+
+1. Crear un repositorio en GitHub con los archivos `index.html`, `style.css`, `script.js`, imágenes, y otros recursos.
+2. Realizar un commit con todo el contenido del sitio.
+3. Habilitar GitHub Pages desde *Settings > Pages*, seleccionando la rama principal (ej. `main`) y la carpeta raíz (`/root`).
+4. Acceder a la página publicada a través de la URL generada automáticamente, con formato:  
+   `https://Aplicaciones-Webs-Grupo04.github.io/Landing-Page_AppsWebs/`
+
+Este mecanismo de despliegue fue sencillo y eficaz, permitiendo compartir públicamente el sitio de presentación del proyecto sin necesidad de servidores externos.
+
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
 #### 6.2.1.1. Sprint Planning 1
