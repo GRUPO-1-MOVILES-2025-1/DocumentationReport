@@ -408,6 +408,6 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ### 5.1.4.4. Mobile Applications User Flow Diagrams
 <p align="center">
-  <img src="img/mockup-mobile-diagram.png" style="width:800px; height:auto;">
+  <img src="img/mockup-mobile-diagram2.png" style="width:800px; height:auto;">
 </p>
 ### 5.1.4.5. Mobile Applications Prototyping
