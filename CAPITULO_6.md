@@ -340,6 +340,23 @@ A continuación se detalla la tabla de endpoints documentados hasta el momento:
 </table>
 
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review.
+**Evidencias del deploy:**<br>
+
+Evidencia:
+<p align="center">
+  <img src="img/deploy1.jpg"  style="width:800px; height:auto;" alt="">
+</p>
+
+Evidencias del deploy:
+<p align="center">
+  <img src="img/deploy2.jpg"  style="width:800px; height:auto;" alt="">
+</p>
+
+Evidencias deL link:
+<p align="center">
+  <img src="img/deploy3.png"  style="width:800px; height:auto;" alt="">
+</p>
+
 #### 6.2.1.7. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint
 
