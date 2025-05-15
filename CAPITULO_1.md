@@ -17,24 +17,24 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Palomino Hurtado, Juan Francisco</th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/Francisco-photo.png" style="width:700px; height:auto;"></td>
-    <td> descripción </td>
+    <td><img src="img/chapter01/Francisco-photo.JPG" style="width:700px; height:auto;"></td>
+    <td> Tengo 20 años y soy estudiante de la Universidad Peruana de Ciencias Aplicadas y actualmente me encuentro en el séptimo ciclo de la carrera de Ingeniería de Software, cuento con una gran fluidez verbal, lo cual me permite trabajar en equipo. Cuento con un nivel alto en HTML, CSS, JavaScript, Vue.j y Astro 5. Además, cuento con un gran conocimiento en edición de videos e imágenes. </td>
   </tr>
 
   <tr>
   <th colspan="2">Galvan Cerron, George Aldo</th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/Aldo-photo.jpg" style="width:700px; height:auto;"></td>
-    <td> descripcion </td>
+    <td><img src="img/chapter01/George-photo.JPG" style="width:700px; height:auto;"></td>
+    <td> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, tengo experiencia en desarrollo de aplicaciones web con lenguajes como C#, Java, Python y C++ en backend. Por otro lado también tengo afinidad con Vue y Angular en desarrollo Frontend </td>
   </tr>
 
   <tr>
     <th colspan="2">Guerrero Vasquez, Jhon Danny </th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/Danny-photo.png" style="width:700px; height:auto;"></td>
-    <td> descripcion </td>
+    <td><img src="img/chapter01/Jhon-photo.JPG" style="width:700px; height:auto;"></td>
+    <td> Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con un marcado interés en algoritmos y estructuras de datos. Manejo C++ con solidez y tengo afinidad por JavaScript y el desarrollo frontend, especialmente en la creación de interfaces dinámicas y orientadas a la experiencia del usuario.</td>
   </tr>
 
   <tr>
@@ -49,8 +49,8 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2"> Reyes Valenzuela, Renato German </th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/German-photo.png" style="width:700px; height:auto;"></td>
-    <td> descripcion </td>
+    <td><img src="img/chapter01/Renato-photo.PNG" style="width:700px; height:auto;"></td>
+    <td> Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.</td>
 
 </table>
 
