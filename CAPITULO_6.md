@@ -37,24 +37,86 @@ El equipo utilizó además herramientas de GitHub como *issues* para el registro
 Gracias a esta estructura de gestión del código fuente, se logró un desarrollo ordenado, seguro y fácilmente escalable para futuras versiones del sistema Psymed.
 
 ### 6.1.3. Source Code Style Guide & Conventions.
+
+Durante el desarrollo del sistema Psymed, el equipo adoptó convenciones de codificación y estilo con el objetivo de garantizar la claridad, coherencia y mantenibilidad del código en todos los módulos del sistema.
+
+#### Estilo en Backend (C# / ASP.NET Core)
+
+Para el backend, desarrollado con C# en el entorno de JetBrains Rider, se aplicaron las convenciones estándar del ecosistema .NET, incluyendo:
+
+- Uso de **PascalCase** para clases, métodos y propiedades.
+- Uso de **camelCase** para variables locales y parámetros de métodos.
+- Separación clara por **capas y responsabilidades**: `Domain`, `Application`, `Infrastructure`, `Shared`.
+- Aplicación del **principio de inyección de dependencias** en los servicios y controladores.
+- Organización de funcionalidades por módulos (por ejemplo, Medication, Profiles, IAM), favoreciendo el aislamiento de responsabilidades.
+
+Asimismo, se priorizó la escritura de código limpio, evitando la duplicación y utilizando principios SOLID para la arquitectura orientada a objetos.
+
+#### Estilo en Frontend Web (Landing Page)
+
+El código de la Landing Page, desarrollado con HTML, CSS y JavaScript puro, se estructuró de forma semántica y legible:
+
+- Uso de nombres de clases descriptivos, siguiendo convenciones como BEM en caso necesario.
+- Separación del contenido (HTML), presentación (CSS) y comportamiento (JS).
+- Organización de archivos en carpetas según su función: estilos, scripts, recursos.
+
+Se priorizó la accesibilidad, el diseño responsive y una experiencia de usuario clara y rápida.
+
+#### Estilo en App Móvil (Kotlin)
+
+En el desarrollo móvil con Kotlin desde Android Studio, se siguieron las convenciones oficiales de estilo promovidas por JetBrains y Google:
+
+- Nombrado en camelCase para variables y métodos.
+- Clases y objetos definidos con PascalCase.
+
+#### Documentación, Comentarios y Buenas Prácticas
+
+- Se documentaron los métodos públicos y estructuras relevantes con comentarios descriptivos y útiles.
+- Se evitaron comentarios redundantes, priorizando el uso de código autoexplicativo.
+- Las funciones fueron diseñadas para ser pequeñas, reutilizables y centradas en una sola responsabilidad.
+- Se utilizaron herramientas de limpieza y formateo automático en los distintos IDEs para mantener la consistencia del estilo.
+
+En general, estas convenciones permitieron facilitar el trabajo colaborativo, la comprensión del código entre integrantes del equipo, y la escalabilidad del sistema Psymed.
+
 ### 6.1.4. Software Deployment Configuration.
 El proceso de despliegue del sistema **Psymed** se abordó en dos partes: el frontend (Landing Page informativa) y el backend (servicios en C#, actualmente en desarrollo).
 
-#### Despliegue del Frontend (Landing Page)
+#### Despliegue del Frontend (Landing Page en Netlify)
 
-La Landing Page del proyecto fue desarrollada utilizando tecnologías web estándar: **HTML5**, **CSS3** y **JavaScript puro**, sin el uso de frameworks adicionales. Su propósito principal es brindar información general sobre la solución Psymed y servir como punto de acceso a los módulos del sistema.
+La Landing Page fue desarrollada con tecnologías web estándar: **HTML5**, **CSS3** y **JavaScript puro**, sin frameworks adicionales. Su función principal es brindar una presentación informativa del sistema Psymed y redirigir al usuario a los servicios principales.
 
-El despliegue se realizó mediante **GitHub Pages**, un servicio gratuito que permite alojar páginas web estáticas directamente desde un repositorio GitHub.
+El despliegue se realizó en **Netlify**, una plataforma moderna que permite publicar sitios estáticos con facilidad. El procedimiento fue el siguiente:
+
+1. El contenido final fue subido a un repositorio en GitHub.
+2. Se enlazó el repositorio a Netlify, configurando la rama `develop` como fuente de despliegue automático.
+3. Netlify detectó los archivos estáticos y ejecutó el flujo de `build` automáticamente.
+4. El sitio quedó disponible con una URL pública generada por Netlify.
+
+> **Figura 1.** Resumen del despliegue de la Landing Page en Netlify  
+> ![Deploy Summary en Netlify](./img/1.png)
+
+> **Figura 2.** Detalles del proceso de despliegue exitoso en Netlify  
+> ![Deploy log Netlify](./img/2.png)
+
+> **Figura 3.** Confirmación del despliegue publicado desde la rama `develop`  
+> ![Published Deploy Netlify](./img/3.png)
+
+#### Despliegue del Backend (API en C# con Render)
+
+El backend fue construido con **C# (ASP.NET Core)** y desplegado como API web mediante la plataforma **Render.com**, ideal para servicios modernos con despliegue automatizado.
 
 El proceso consistió en:
 
-1. Crear un repositorio en GitHub con los archivos `index.html`, `style.css`, `script.js`, imágenes, y otros recursos.
-2. Realizar un commit con todo el contenido del sitio.
-3. Habilitar GitHub Pages desde *Settings > Pages*, seleccionando la rama principal (ej. `main`) y la carpeta raíz (`/root`).
-4. Acceder a la página publicada a través de la URL generada automáticamente, con formato:  
-   `https://Aplicaciones-Webs-Grupo04.github.io/Landing-Page_AppsWebs/`
+- Subida del proyecto al repositorio `Psymed_Backend`.
+- Creación de un nuevo servicio web en Render, enlazando directamente el repositorio.
+- Configuración del entorno .NET Core, el comando de build (`dotnet build`) y ejecución (`dotnet run`).
+- Render expuso automáticamente la API en el puerto `8080` y generó una URL pública:  
+  `https://psymed-api.onrender.com`
 
-Este mecanismo de despliegue fue sencillo y eficaz, permitiendo compartir públicamente el sitio de presentación del proyecto sin necesidad de servidores externos.
+El servicio fue desplegado con una instancia gratuita, por lo que Render puede aplicar suspensiones temporales tras periodos de inactividad, generando una breve demora al primer acceso.
+
+> **Figura 2.** Despliegue del backend de Psymed utilizando Render.  
+> ![Despliegue en Render](./img/img-backend-render.png)
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
