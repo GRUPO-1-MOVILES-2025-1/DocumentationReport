@@ -12,10 +12,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/psymed_logo.svg" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/chapter02/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/chapter02/competidores/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/chapter02/competidores/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="/img/chapter02/psymed_logo.svg" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="/img/chapter02/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="/img/chapter02/competidores/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="/img/chapter02/competidores/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -152,7 +152,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/chapter02/Interviews/Interview1PR.jpeg">
+  <img src="/img/chapter02/Interviews/Interview1PR.jpeg">
 </div>
 
 | Nombre               | Luis                                                                                                                                                                                                                                                                                                                                  |
@@ -176,7 +176,7 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/chapter02/Interviews/Interview2.jpeg">
+  <img src="/img/chapter02/Interviews/Interview2.jpeg">
 </div>
 
 | Nombre               | Alberto                                                                                                                                                                                                                                                                                                                               |
@@ -199,7 +199,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/chapter02/Interviews/Interview3.jpeg">
+  <img src="/img/chapter02/Interviews/Interview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                                                                                                                                                                                                                |
@@ -226,7 +226,7 @@ Finalmente, la entrevistada menciona que nuestra plataforma debería tener una s
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/chapter02/Interviews/Interview1.jpeg">
+    <img src="/img/chapter02/Interviews/Interview1.jpeg">
 </div>
 
 | Nombre               | Ximena                                                                                                                                                                                                                                                                                                                                                                             |
@@ -250,7 +250,7 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 Entrevistado 2:
 
 <div align=center>
-    <img src="/assets/chapter02/Interviews/Interview2PT.png"/>
+    <img src="/img/chapter02/Interviews/Interview2PT.png"/>
 </div>
 
 
@@ -287,7 +287,7 @@ el proyecto con las siguientes ideas:
 Entrevistado 3:
 
 <div align=center>
-    <img src="/assets/chapter02/Interviews/Interview3.jpeg">
+    <img src="/img/chapter02/Interviews/Interview3.jpeg">
 </div>
 
 
@@ -340,11 +340,11 @@ sus celulares como su herramienta principal para el trabajo y la
 comunicación.
 
 <p align="center">
-  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic1.jpg" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic2.jpg" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic3.jpg" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic4.jpg" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/Mental%20Medic/Al-medic5.jpg" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Mental%20Medic/AL-medic1.jpg" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Mental%20Medic/AL-medic2.jpg" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Mental%20Medic/AL-medic3.jpg" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Mental%20Medic/AL-medic4.jpg" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Mental%20Medic/Al-medic5.jpg" style="width:800px; height:auto;">
 </p>
 
 - **Segmento 2: Pacientes**
@@ -359,10 +359,10 @@ inclinación marcada hacia un solo dispositivo, ya que usan en gran
 medida celulares y laptops, aunque las tablets también son utilizadas
 con frecuencia.
 <p align="center">
-  <img src="assets/chapter02/statistics/Patients/Al-Pat1.png" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/Patients/Al-pat2.png" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/Patients/Al-pat3.png" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/Patients/Al-pat4.png" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Patients/Al-Pat1.png" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Patients/Al-pat2.png" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Patients/Al-pat3.png" style="width:800px; height:auto;">
+  <img src="img/chapter02/statistics/Patients/Al-pat4.png" style="width:800px; height:auto;">
 </p>
 
 ## 2.3. Needfinding
