@@ -18,7 +18,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   </tr>
   <tr>
     <td><img src="img/chapter01/Francisco-photo.JPG" style="width:700px; height:auto;"></td>
-    <td> descripción </td>
+    <td> Tengo 20 años y soy estudiante de la Universidad Peruana de Ciencias Aplicadas y actualmente me encuentro en el séptimo ciclo de la carrera de Ingeniería de Software, cuento con una gran fluidez verbal, lo cual me permite trabajar en equipo. Cuento con un nivel alto en HTML, CSS, JavaScript, Vue.j y Astro 5. Además, cuento con un gran conocimiento en edición de videos e imágenes. </td>
   </tr>
 
   <tr>
@@ -26,7 +26,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   </tr>
   <tr>
     <td><img src="img/chapter01/Aldo-photo.jpg" style="width:700px; height:auto;"></td>
-    <td> descripcion </td>
+    <td> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, tengo experiencia en desarrollo de aplicaciones web con lenguajes como C#, Java, Python y C++ en backend. Por otro lado también tengo afinidad con Vue y Angular en desarrollo Frontend </td>
   </tr>
 
   <tr>
@@ -34,7 +34,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   </tr>
   <tr>
     <td><img src="img/chapter01/Danny-photo.png" style="width:700px; height:auto;"></td>
-    <td> descripcion </td>
+    <td> Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con un marcado interés en algoritmos y estructuras de datos. Manejo C++ con solidez y tengo afinidad por JavaScript y el desarrollo frontend, especialmente en la creación de interfaces dinámicas y orientadas a la experiencia del usuario.</td>
   </tr>
 
   <tr>
