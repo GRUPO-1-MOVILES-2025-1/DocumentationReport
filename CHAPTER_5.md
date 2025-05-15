@@ -398,16 +398,35 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
   <img src="img/mockup-mobile14.png" style="width:350px; height:auto;"><br>
   <img src="img/mockuo-mobile15.png" style="width:350px; height:auto;"><br>
   <img src="img/mockup-mobile16.png" style="width:350px; height:auto;"><br>
-  <img src="img/mockup-mobile17.png" style="width:350px; height:auto;"><br>
-  <img src="img/mockup-mobile18.png" style="width:350px; height:auto;"><br>
-  <img src="img/mockup-mobile19.png" style="width:350px; height:auto;"><br>
-  <img src="img/mockup-mobile20.png" style="width:350px; height:auto;"><br>
-  <img src="img/mockup-mobile21.png" style="width:350px; height:auto;">
+  <img src="img/mockup-mobile22.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile23.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile24.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile25.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile26.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile27.png" style="width:350px; height:auto;"><br>
+  <img src="img/mockup-mobile28.png" style="width:350px; height:auto;">
 
 </p>
 
 ### 5.1.4.4. Mobile Applications User Flow Diagrams
 <p align="center">
-  <img src="img/mockup-mobile-diagram.png" style="width:800px; height:auto;">
+  <img src="img/mockup-mobile-diagram2.png" style="width:800px; height:auto;">
 </p>
+
 ### 5.1.4.5. Mobile Applications Prototyping
+
+
+En esta sección presentamos el prototipo de la aplicación móvil. A continuación, se muestran las imágenes correspondientes:
+
+## Pantallas del Prototipo
+
+### **1. Pantalla de Login**
+![Pantalla de Inicio](img/chapter5/protoypes/Login-Prototype.JPG)
+
+### **2. Pantalla de Registro**
+![Pantalla de Registro](img/chapter5/protoypes/Register-PrototypeV1.JPG)
+
+![Pantalla de Registro](img/chapter5/protoypes/Register-PrototypeV2.JPG)
+
+### **3. Pantalla Lista de Pacientes**
+![Pantalla Principal](img/chapter5/protoypes/PatientList-Prototype.JPG)
