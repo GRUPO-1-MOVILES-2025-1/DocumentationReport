@@ -410,4 +410,18 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 <p align="center">
   <img src="img/mockup-mobile-diagram.png" style="width:800px; height:auto;">
 </p>
+
 ### 5.1.4.5. Mobile Applications Prototyping
+
+En esta sección presentamos el prototipo de la aplicación móvil. A continuación, se muestran las imágenes correspondientes:
+
+## Pantallas del Prototipo
+
+### **1. Pantalla de Login**
+![Pantalla de Inicio](img/chapter5/protoypes/Login-Prototype.JPEG)
+
+### **2. Pantalla de Registro**
+![Pantalla de Registro](img/chapter5/protoypes/prototipo2.png)
+
+### **3. Pantalla Lista de Pacientes**
+![Pantalla Principal](img/chapter5/protoypes/prototipo3.png)
