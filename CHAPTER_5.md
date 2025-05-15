@@ -421,10 +421,12 @@ En esta sección presentamos el prototipo de la aplicación móvil. A continuaci
 ## Pantallas del Prototipo
 
 ### **1. Pantalla de Login**
-![Pantalla de Inicio](img/chapter5/protoypes/Login-Prototype.JPEG)
+![Pantalla de Inicio](img/chapter5/protoypes/Login-Prototype.JPG)
 
 ### **2. Pantalla de Registro**
-![Pantalla de Registro](img/chapter5/protoypes/prototipo2.png)
+![Pantalla de Registro](img/chapter5/protoypes/Register-PrototypeV1.JPG)
+
+![Pantalla de Registro](img/chapter5/protoypes/Register-PrototypeV2.JPG)
 
 ### **3. Pantalla Lista de Pacientes**
-![Pantalla Principal](img/chapter5/protoypes/prototipo3.png)
+![Pantalla Principal](img/chapter5/protoypes/PatientList-Prototype.JPG)
