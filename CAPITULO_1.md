@@ -49,7 +49,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2"> Reyes Valenzuela, Renato German </th>
   </tr>
   <tr>
-    <td><img src="img/chapter01/Renato-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="img/chapter01/Renato-photo.PNG" style="width:700px; height:auto;"></td>
     <td> Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.</td>
 
 </table>
