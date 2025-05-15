@@ -52,9 +52,26 @@ El proceso consistió en:
 2. Realizar un commit con todo el contenido del sitio.
 3. Habilitar GitHub Pages desde *Settings > Pages*, seleccionando la rama principal (ej. `main`) y la carpeta raíz (`/root`).
 4. Acceder a la página publicada a través de la URL generada automáticamente, con formato:  
-   `https://Aplicaciones-Webs-Grupo04.github.io/Landing-Page_AppsWebs/`
+   `https://GRUPO-1-MOVILES-2025-1.github.io/Psymed-LandingPage/`
 
 Este mecanismo de despliegue fue sencillo y eficaz, permitiendo compartir públicamente el sitio de presentación del proyecto sin necesidad de servidores externos.
+
+#### Despliegue del Backend (API en C# con Render)
+
+El backend fue construido con **C# (ASP.NET Core)** y desplegado como API web mediante la plataforma **Render.com**, ideal para servicios modernos con despliegue automatizado.
+
+El proceso consistió en:
+
+- Subida del proyecto al repositorio `Psymed_Backend`.
+- Creación de un nuevo servicio web en Render, enlazando directamente el repositorio.
+- Configuración del entorno .NET Core, el comando de build (`dotnet build`) y ejecución (`dotnet run`).
+- Render expuso automáticamente la API en el puerto `8080` y generó una URL pública:  
+  `https://psymed-api.onrender.com`
+
+El servicio fue desplegado con una instancia gratuita, por lo que Render puede aplicar suspensiones temporales tras periodos de inactividad, generando una breve demora al primer acceso.
+
+> **Figura 2.** Despliegue del backend de Psymed utilizando Render.  
+> ![Despliegue en Render](../assets/img-backend-render.png)
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
