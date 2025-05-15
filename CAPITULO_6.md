@@ -1,7 +1,41 @@
 # Capítulo VI: Product Implementation, Validation & Deployment
 ## 6.1. Software Configuration Management.
-### 6.1.1. Software Development Environment Configuration.
+### 6.1.1. Software Development Environment Configuration
+
+Durante el desarrollo del proyecto móvil **Psymed**, se configuró un entorno de desarrollo distribuido y especializado, acorde a las necesidades de cada componente del sistema: aplicación móvil, backend, frontend web y documentación.
+
+Para el desarrollo del sistema, se emplearon las siguientes herramientas:
+
+- **Android Studio**: utilizado como entorno principal para la construcción y prueba de la aplicación móvil, permitiendo emulación de dispositivos Android y acceso a herramientas de depuración específicas para entornos móviles.
+- **Rider (JetBrains)**: IDE elegido para el desarrollo del backend del sistema, ya que el proyecto utilizó el lenguaje **C#** y tecnologías compatibles con el ecosistema .NET.
+- **Visual Studio Code**: empleado para el desarrollo del frontend (Landing Page) y la edición general del código, gracias a su flexibilidad y amplia compatibilidad con tecnologías como HTML, CSS y JavaScript.
+- **WebStorm**: usado en la elaboración y mantenimiento del informe técnico, permitiendo una organización eficiente de archivos Markdown, edición colaborativa y navegación estructurada del contenido.
+
+El entorno técnico integró servicios desarrollados en **C#** para el backend. El equipo utilizó **emuladores Android** para pruebas móviles, así como dispositivos físicos para validar la experiencia real del usuario.
+
+Adicionalmente, todas las herramientas fueron integradas con **Git y GitHub** como sistema de control de versiones, facilitando el trabajo colaborativo entre miembros del equipo, el seguimiento de avances por ramas, y la documentación de cambios mediante *commits* semánticos.
 ### 6.1.2. Source Code Management.
+La gestión del código fuente del proyecto **Psymed** se llevó a cabo utilizando **Git** como sistema de control de versiones distribuido, y **GitHub** como plataforma de colaboración remota.
+
+El flujo de trabajo adoptado se basó en una estrategia de ramificación estructurada, con las siguientes ramas principales:
+
+- `main`: rama principal y estable, destinada a contener las versiones listas para despliegue o revisión.
+- `develop`: rama de integración, donde se consolidan las funcionalidades en desarrollo.
+- `feature/*`: ramas dedicadas a cada funcionalidad o módulo, nombradas según el componente en el que se trabaja, como `feature/login`, `feature/test-psicologico`, `CHAPTER6`, entre otras.
+
+El desarrollo de la aplicación web se llevó a cabo principalmente desde **Android Studio**, utilizando el lenguaje **Kotlin**, lo cual permitió generar una experiencia optimizada para dispositivos móviles con estructura web progresiva.
+
+Cada rama de funcionalidad se integró mediante *pull requests* hacia `develop`, previa revisión de código. Esto aseguró control de calidad y redujo riesgos de conflictos o errores. Se aplicó una convención semántica en los mensajes de *commit*, empleando prefijos como:
+
+- `feat:` para nuevas funcionalidades.
+- `fix:` para corrección de errores.
+- `docs:` para cambios en documentación.
+- `refactor:` para reestructuración interna sin modificar el comportamiento.
+
+El equipo utilizó además herramientas de GitHub como *issues* para el registro de tareas y errores, y *projects* para organizar el flujo de trabajo colaborativo.
+
+Gracias a esta estructura de gestión del código fuente, se logró un desarrollo ordenado, seguro y fácilmente escalable para futuras versiones del sistema Psymed.
+
 ### 6.1.3. Source Code Style Guide & Conventions.
 ### 6.1.4. Software Deployment Configuration.
 ## 6.2. Landing Page, Services & Applications Implementation.
