@@ -71,7 +71,7 @@ El proceso consistió en:
 El servicio fue desplegado con una instancia gratuita, por lo que Render puede aplicar suspensiones temporales tras periodos de inactividad, generando una breve demora al primer acceso.
 
 > **Figura 2.** Despliegue del backend de Psymed utilizando Render.  
-> ![Despliegue en Render](../assets/img-backend-render.png)
+> ![Despliegue en Render](./img/img-backend-render.png)
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
