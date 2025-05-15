@@ -81,21 +81,25 @@ En general, estas convenciones permitieron facilitar el trabajo colaborativo, la
 ### 6.1.4. Software Deployment Configuration.
 El proceso de despliegue del sistema **Psymed** se abordó en dos partes: el frontend (Landing Page informativa) y el backend (servicios en C#, actualmente en desarrollo).
 
-#### Despliegue del Frontend (Landing Page)
+#### Despliegue del Frontend (Landing Page en Netlify)
 
-La Landing Page del proyecto fue desarrollada utilizando tecnologías web estándar: **HTML5**, **CSS3** y **JavaScript puro**, sin el uso de frameworks adicionales. Su propósito principal es brindar información general sobre la solución Psymed y servir como punto de acceso a los módulos del sistema.
+La Landing Page fue desarrollada con tecnologías web estándar: **HTML5**, **CSS3** y **JavaScript puro**, sin frameworks adicionales. Su función principal es brindar una presentación informativa del sistema Psymed y redirigir al usuario a los servicios principales.
 
-El despliegue se realizó mediante **GitHub Pages**, un servicio gratuito que permite alojar páginas web estáticas directamente desde un repositorio GitHub.
+El despliegue se realizó en **Netlify**, una plataforma moderna que permite publicar sitios estáticos con facilidad. El procedimiento fue el siguiente:
 
-El proceso consistió en:
+1. El contenido final fue subido a un repositorio en GitHub.
+2. Se enlazó el repositorio a Netlify, configurando la rama `develop` como fuente de despliegue automático.
+3. Netlify detectó los archivos estáticos y ejecutó el flujo de `build` automáticamente.
+4. El sitio quedó disponible con una URL pública generada por Netlify.
 
-1. Crear un repositorio en GitHub con los archivos `index.html`, `style.css`, `script.js`, imágenes, y otros recursos.
-2. Realizar un commit con todo el contenido del sitio.
-3. Habilitar GitHub Pages desde *Settings > Pages*, seleccionando la rama principal (ej. `main`) y la carpeta raíz (`/root`).
-4. Acceder a la página publicada a través de la URL generada automáticamente, con formato:  
-   `https://GRUPO-1-MOVILES-2025-1.github.io/Psymed-LandingPage/`
+> **Figura 1.** Resumen del despliegue de la Landing Page en Netlify  
+> ![Deploy Summary en Netlify](./img/1.png)
 
-Este mecanismo de despliegue fue sencillo y eficaz, permitiendo compartir públicamente el sitio de presentación del proyecto sin necesidad de servidores externos.
+> **Figura 2.** Detalles del proceso de despliegue exitoso en Netlify  
+> ![Deploy log Netlify](./img/2.png)
+
+> **Figura 3.** Confirmación del despliegue publicado desde la rama `develop`  
+> ![Published Deploy Netlify](./img/3.png)
 
 #### Despliegue del Backend (API en C# con Render)
 
