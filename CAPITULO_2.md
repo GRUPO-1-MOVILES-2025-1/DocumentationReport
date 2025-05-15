@@ -152,7 +152,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/chapter02/Interviews/Interview1PR.jpeg">
+  <img src="/img/chapter02/Interviews/Interview1PR.jpeg">
 </div>
 
 | Nombre               | Luis                                                                                                                                                                                                                                                                                                                                  |
