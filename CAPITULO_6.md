@@ -481,3 +481,382 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 <p align="center">
   <img src="img/Collaborations.png"  style="width:800px; height:auto;" alt="Collaborations">
 </p>
+
+### 6.2.2 Sprint 2
+#### 6.2.2.1. Sprint Planning 2
+Para este primer sprint nos enfocaremos en los tasks para la elaboración de la Landing Page. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">20/05/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">6:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Google Meet</td>
+</tr>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Cristian Iparraguirre</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Cristian Iparraguirre, Francisco Hurtado, Jose Riega, George Galvan, Renato Reyes, Jhon Guerrero</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta segunda sección se planificó el desarrollo de la aplicación móvil PsyMed, </td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">Los particimantes mencionaron que uno de los retos principales seria integrar las funcionalidades una vez se tengan las vistas hechas.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Finalizar el diseño e implementación de la Landing Page mobile-first de PsyMed</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
+#### 6.2.2.2. Sprint Backlog 2.
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status</td>
+</tr>
+
+<!-- ÉPICA 1: Accesibilidad de la Landing Page -->
+<tr>
+    <td colspan="13"><strong>Épica 3: Acceso a la aplicación</strong></td>
+</tr>
+<tr>
+    <td>US08</td>
+    <td colspan="2">Registro como profesional de la salud mental</td>
+    <td>1</td>
+    <td colspan="2">Diseño mobile-first responsive</td>
+    <td colspan="3">Como profesional de la salud mental, quiero registrarme con mis credenciales para acceder a las funcionalidades específicas y gestionar la información de mis pacientes..</td>
+    <td>2</td>
+    <td colspan="2">George, Jose</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US09</td>
+    <td colspan="2">Inicio de sesión como paciente</td>
+    <td>2</td>
+    <td colspan="2">Redactar y estructurar contenido informativo</td>
+    <td colspan="3">Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento..</td>
+    <td>1</td>
+    <td colspan="2">Cristian, Francisco</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US10</td>
+    <td colspan="2">Inicio de sesión como profesional de la salud mental</td>
+    <td>3</td>
+    <td colspan="2">Incluir enlace de contacto o soporte</td>
+    <td colspan="3">Como profesional de la salud mental, quiero iniciar sesión para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.</td>
+    <td>1</td>
+    <td colspan="2">Renato</td>
+    <td>Done</td>
+</tr>
+
+<!-- ÉPICA 2: Interfaz de la Landing Page -->
+<tr>
+    <td colspan="13"><strong>Épica 4: Registro de información del paciente</strong></td>
+</tr>
+<tr>
+    <td>US13</td>
+    <td colspan="2">Registro de información personal del paciente</td>
+    <td>4</td>
+    <td colspan="2">Insertar recursos visuales atractivos</td>
+    <td colspan="3">Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa..</td>
+    <td>1</td>
+    <td colspan="2">Jhon, George</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US14<td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
+    <td>5</td>
+    <td colspan="2">Aplicar estilos tipográficos legibles</td>
+    <td colspan="3">Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico..</td>
+    <td>1</td>
+    <td colspan="2">Francisco</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US15</td>
+    <td colspan="2">Registro de historial médico del paciente</td>
+    <td>6</td>
+    <td colspan="2">Aplicar estilo visual coherente y profesional</td>
+    <td colspan="3">Como profesional de la salud mental, quiero registrar el historial médico del paciente para tener un contexto completo de sus antecedentes.</td>
+    <td>1</td>
+    <td colspan="2">Cristian, Renato</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US16</td>
+    <td colspan="2">Registro Completo de Información Médica</td>
+    <td>7</td>
+    <td colspan="2">Agregar animaciones y efecto hover</td>
+    <td colspan="3">Como profesional de la salud mental, quiero registrar toda la información médica relevante de mis pacientes para tener un historial completo para su tratamiento.</td>
+    <td>1</td>
+    <td colspan="2">Jose</td>
+    <td>Done</td>
+</tr>
+</table>
+
+#### 6.2.2.3. Development Evidence for Sprint Review.
+<table>
+  <tr>
+    <th colspan="2">Repository</th> <th colspan="2">Branch</th>
+    <th colspan="2">Commit Id</th> <th colspan="2">Commit Message</th>
+    <th colspan="2">Commit Message Body</th>
+    <th colspan="2">Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td colspan="2">PsyMed_MobileApplication_Flutter</td>
+    <td colspan="2">main</td> <td colspan="2">1d2c012</td>
+    <td colspan="2">Initial commit</td>
+    <td colspan="2">creacion del repositorio</td>
+    <td colspan="2">22/06/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">PsyMed_MobileApplication_Fluttere</td>
+    <td colspan="2">main</td> <td colspan="2">466ba6e</td>
+    <td colspan="2">feat: created project in flutter and first views carga, login and register</td>
+    <td colspan="2">
+      Creaccion de la vista de carga, inicio de sesion y registro (US01)
+    </td>
+    <td colspan="2">22/06/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">PsyMed_MobileApplication_Flutter</td>
+    <td colspan="2">Implementation_IAM_endpoints</td> <td colspan="2">cdfa2fe</td>
+    <td colspan="2">feat: added IAM funtion</td>
+    <td colspan="2">creaccion de la funcion IAM</td>
+    <td colspan="2">22/06/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">PsyMed_MobileApplication_Flutter</td>
+    <td colspan="2">Implementation_IAM_endpoints</td> <td colspan="2">b99d70d</td>
+    <td colspan="2">feat: added sidebar</td>
+    <td colspan="2">Creacion de la sidebar</td>
+    <td colspan="2">22/06/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">PsyMed_MobileApplication_Flutter</td>
+    <td colspan="2">Implementation_Patient_Tasks</td> <td colspan="2">2377e0a</td>
+    <td colspan="2">feat: added patient tasks views</td>
+    <td colspan="2">
+      Creacion de las vistas de tareas del paciente (US05)
+    </td>
+    <td colspan="2">22/06/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">PsyMed_MobileApplication_Flutter</td>
+    <td colspan="2">Implementation_Patient_Tasks</td> <td colspan="2">bd51264</td>
+    <td colspan="2">refactor: changes in home_view for the new screens</td>
+    <td colspan="2">
+      Cambios en la vista de inicio para las nuevas pantallas (US04)
+    </td>
+    <td colspan="2">22/06/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">PsyMed_MobileApplication_Flutter</td>
+    <td colspan="2">Implementation_Patient_Tasks</td> <td colspan="2">cab0f41</td>
+    <td colspan="2">feat: added button retroceso</td>
+    <td colspan="2">
+      Agregado de boton retroceso en las vistas 
+    </td>
+    <td colspan="2">22/06/2025</td>
+  </tr>
+</table>
+
+#### 6.2.2.4. Execution Evidence for Sprint Review.
+
+Para este primer entregable, hemos elaborado la Landing Page del proyecto de "PsyMed". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+
+**Inicio de sesion**: Se implementó el inicio de sesion.
+
+![Inicio](img/movile%20evidence/inicio%20de%20sesion.png)
+
+**Registro**: Se implementó el registro.
+
+![Inicio](img/movile%20evidence/registro.png)
+
+**Menu**: Se implementó el menu.
+
+![Inicio](img/movile%20evidence/menu.png)
+
+**Sidebar**: Se implementó la sidebar.
+
+![Inicio](img/movile%20evidence/sidebar.png)
+
+**Sección de Pacientes**: Se añadió la sección de pacientes.
+
+![Inicio](img/movile%20evidence/vista%20pacientes.png)
+
+**Sección de Paciente**: Se implementó la sección informacion de un paciente en específico.
+
+![Inicio](img/movile%20evidence/vista%20paciente%20unico.png)
+
+**Sección de Prescripción**: Se implementó la sección de prescripción.
+
+![Inicio](img/movile%20evidence/vista%20de%20preescripcion.png)
+
+**Sección de Edición**: Se implementó la sección de edición de un paciente.
+
+![Inicio](img/movile%20evidence/vista%20edicion.png)
+
+**Sección de Preescripcion**: Se implementó la sección de edicion de preescripcion.
+
+![Inicio](img/movile%20evidence/vista%20edicion%20preescripcion.png)
+
+**Sección de Perfil**: Se implementó la sección de perfil.
+
+![Inicio](img/movile%20evidence/vista%20profile.png)
+
+**Sección de Estados de Ánimo**: Se implementó la sección de estados de ánimo.
+
+![Inicio](img/movile%20evidence/vista%20estados%20de%20animo.png)
+
+**Sección de Configuración**: Se implementó la sección de configuración.
+
+![Inicio](img/movile%20evidence/vista%20configuracion.png)
+
+**Sección de Calendario**: Se implementó la sección de calendario.
+
+![Inicio](img/movile%20evidence/vista%20calendario.jpg)
+
+**Sección de Añadir Paciente**: Se implementó la sección de añadir paciente.
+
+![Inicio](img/movile%20evidence/vista%20paciente%20calendario.jpg)
+
+**Sección de Añadir Medicación**: Se implementó la sección de añadir medicación.
+
+![Inicio](img/movile%20evidence/vista%20añadir%20medicacion.jpg)
+
+
+#### 6.2.2.5. Services Documentation Evidence for Sprint Review.
+Durante este Sprint se avanzó en la documentación de los servicios relacionados a la funcionalidad de la Landing Page, así como los primeros servicios de autenticación. La documentación se elaboró utilizando **OpenAPI (Swagger)** y refleja los endpoints implementados para el inicio de sesión, registro y recuperación de contraseña, lo cual permite una base clara para los desarrolladores frontend y testers.
+
+A continuación se detalla la tabla de endpoints documentados hasta el momento:
+
+<table>
+<tr>
+    <th>Endpoint</th>
+    <th>HTTP Verb</th>
+    <th>Description</th>
+    <th>Request Syntax</th>
+    <th>Parameters</th>
+    <th>Example Response</th>
+    <th>Documentation URL</th>
+</tr>
+
+<tr>
+    <td>/api/auth/register</td>
+    <td>POST</td>
+    <td>Permite a un profesional o paciente registrarse en el sistema.</td>
+    <td>POST /api/auth/register</td>
+    <td>
+        - `name`: string<br>
+        - `email`: string<br>
+        - `password`: string<br>
+        - `role`: string (patient | professional)
+    </td>
+    <td>
+        {
+          "message": "Usuario registrado exitosamente",
+          "userId": "abc123"
+        }
+    </td>
+    <td>http://localhost:3000/api-docs</td>
+</tr>
+
+<tr>
+    <td>/api/auth/login</td>
+    <td>POST</td>
+    <td>Permite iniciar sesión a pacientes o profesionales.</td>
+    <td>POST /api/auth/login</td>
+    <td>
+        - `email`: string<br>
+        - `password`: string
+    </td>
+    <td>
+        {
+          "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+          "role": "patient"
+        }
+    </td>
+    <td>http://localhost:3000/api-docs</td>
+</tr>
+
+<tr>
+    <td>/api/auth/recover-password</td>
+    <td>POST</td>
+    <td>Envía un correo de recuperación al usuario.</td>
+    <td>POST /api/auth/recover-password</td>
+    <td>
+        - `email`: string
+    </td>
+    <td>
+        {
+          "message": "Se ha enviado un enlace de recuperación al correo electrónico"
+        }
+    </td>
+    <td>http://localhost:3000/api-docs</td>
+</tr>
+
+</table>
+
+#### 6.2.2.6. Software Deployment Evidence for Sprint Review.
+**Evidencias del deploy:**<br>
+
+Todas las pruebas de despliegue se realizaron en el entorno de desarrollo, por lo que no se generó un despliegue público.
+
+#### 6.2.2.7. Team Collaboration Insights during Sprint.
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint
+
+<p align="center">
+  <img src="img/Pulse.png" style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="img/movile%20evidence/img.png"  style="width:800px; height:auto;" alt="Collaborations">
+</p>
