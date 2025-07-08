@@ -861,6 +861,8 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 ### 6.2.3 Sprint 3
 #### 6.2.3.1. Sprint Planning 3
 
+![trello 3.png](img/trello%203.png)
+
 <table>
 <tr>
     <th colspan="5">Sprint #</th>
